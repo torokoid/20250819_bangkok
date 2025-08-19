@@ -231,6 +231,11 @@ p.note { display: none; }
 <a href="20250819_030.JPG" target="_blank"><img src="20250819_030.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250819_031.JPG" target="_blank"><img src="20250819_031.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">最後は住宅街に鳴き声が響き渡る籠の鳥</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nQgHK9c6AqU?si=rAyZzWVjRapq501d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
 <br><br><br><br><br><br><br><br><br>
 
 <!--<br><br>
